@@ -2,7 +2,8 @@
 
 複数のAIサービスを一つの便利なmacOSアプリで統合。効率的なAI作業フローを実現します。
 
-![Prism Interface](screenshot.png)
+<!-- ![Prism Interface](assets/prism-screenshot.png) -->
+
 
 ## 🌟 特徴
 
