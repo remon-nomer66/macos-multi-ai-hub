@@ -1,0 +1,57 @@
+{
+  "fill" : {
+    "automatic-gradient" : "extended-srgb:0.00000,0.47843,1.00000,1.00000"
+  },
+  "groups" : [
+    {
+      "layers" : [
+        {
+          "hidden" : false,
+          "image-name" : "prism_icon_app.png",
+          "name" : "prism_icon_app",
+          "position" : {
+            "scale" : 1,
+            "translation-in-points" : [
+              -2.9296875,
+              16.2265625
+            ]
+          }
+        }
+      ],
+      "shadow" : {
+        "kind" : "neutral",
+        "opacity" : 0.5
+      },
+      "translucency" : {
+        "enabled" : true,
+        "value" : 0.5
+      }
+    },
+    {
+      "layers" : [
+        {
+          "fill" : {
+            "solid" : "display-p3:1.00000,0.99716,0.95377,1.00000"
+          },
+          "glass" : false,
+          "image-name" : "prism_icon_abbbg.png",
+          "name" : "prism_icon_abbbg"
+        }
+      ],
+      "shadow" : {
+        "kind" : "neutral",
+        "opacity" : 0.5
+      },
+      "translucency" : {
+        "enabled" : true,
+        "value" : 0.5
+      }
+    }
+  ],
+  "supported-platforms" : {
+    "circles" : [
+      "watchOS"
+    ],
+    "squares" : "shared"
+  }
+}
