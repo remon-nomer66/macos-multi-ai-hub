@@ -1,4 +1,4 @@
-# Prism - macOS AI Service Aggregator
+# Prism - macos-multi-ai-hub
 
 複数のAIサービスを一つの便利なmacOSアプリで統合。効率的なAI作業フローを実現します。
 
